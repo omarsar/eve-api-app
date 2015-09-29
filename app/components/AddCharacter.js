@@ -21,7 +21,7 @@ class AddCharacter extends React.Component {
     this.setState(state);
   }
 
-  //this handles the event by the submit button.
+  //this handles the event by the submit
   handleSubmit(event) {
     event.preventDefault();
 
